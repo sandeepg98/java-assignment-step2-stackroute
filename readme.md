@@ -100,7 +100,7 @@ Class : **AggregateFunction**
         
     
 The final QueryParameter class consist of
------------------------------------------
+---------------------------------------------
     - queryString : String
     - file  : String
     - baseQuery -> String
